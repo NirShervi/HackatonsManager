@@ -24,3 +24,11 @@ FireBase (Google) -
 ## Personal Area + TableCellView :
 </br>
 <img src = https://user-images.githubusercontent.com/75904114/178100246-e25b54ae-daae-47bb-bb2f-c101088c07bc.png width=200 >
+
+
+
+
+
+
+https://user-images.githubusercontent.com/75904114/178100551-a64457fe-1878-495a-95ea-27ede623928c.mov
+
